@@ -24,7 +24,7 @@ export default function DiscoverSlider({ lang, theme, t }: DiscoverSliderProps) 
       descKey: 'slide1_desc',
       screenComponent: (th) => (
         <img 
-          src={th === 'dark' ? '/assets/gorseller/App/Astro-Music-Dark.png' : '/assets/gorseller/App/Astro-Music-Light.png'} 
+          src={th === 'dark' ? './assets/gorseller/App/Astro-Music-Dark.png' : './assets/gorseller/App/Astro-Music-Light.png'} 
           alt="Astro Music" 
           className="w-full h-full object-cover object-top" 
         />
@@ -36,7 +36,7 @@ export default function DiscoverSlider({ lang, theme, t }: DiscoverSliderProps) 
       descKey: 'slide2_desc',
       screenComponent: (th) => (
         <img 
-          src={th === 'dark' ? '/assets/gorseller/App/Birthchart-Dark.png' : '/assets/gorseller/App/Birthchart-Light.png'} 
+          src={th === 'dark' ? './assets/gorseller/App/Birthchart-Dark.png' : './assets/gorseller/App/Birthchart-Light.png'} 
           alt="Birth Chart" 
           className="w-full h-full object-cover object-top" 
         />
@@ -48,7 +48,7 @@ export default function DiscoverSlider({ lang, theme, t }: DiscoverSliderProps) 
       descKey: 'slide3_desc',
       screenComponent: (th) => (
         <img 
-          src={th === 'dark' ? '/assets/gorseller/App/SoundLab-Dark.png' : '/assets/gorseller/App/SoundLab-Light.png'} 
+          src={th === 'dark' ? './assets/gorseller/App/SoundLab-Dark.png' : './assets/gorseller/App/SoundLab-Light.png'} 
           alt="Sound Lab Mixer" 
           className="w-full h-full object-cover object-top" 
         />
@@ -60,7 +60,7 @@ export default function DiscoverSlider({ lang, theme, t }: DiscoverSliderProps) 
       descKey: 'slide4_desc',
       screenComponent: (th) => (
         <img 
-          src={th === 'dark' ? '/assets/gorseller/App/MyMusics-Dark.png' : '/assets/gorseller/App/MyMusics-Light.png'} 
+          src={th === 'dark' ? './assets/gorseller/App/MyMusics-Dark.png' : './assets/gorseller/App/MyMusics-Light.png'} 
           alt="My Musics" 
           className="w-full h-full object-cover object-top" 
         />
@@ -72,7 +72,7 @@ export default function DiscoverSlider({ lang, theme, t }: DiscoverSliderProps) 
       descKey: 'slide5_desc',
       screenComponent: (th) => (
         <img 
-          src={th === 'dark' ? '/assets/gorseller/App/Profile-Dark.png' : '/assets/gorseller/App/Profile-Light.png'} 
+          src={th === 'dark' ? './assets/gorseller/App/Profile-Dark.png' : './assets/gorseller/App/Profile-Light.png'} 
           alt="Cosmic Profile" 
           className="w-full h-full object-cover object-top" 
         />
@@ -84,7 +84,7 @@ export default function DiscoverSlider({ lang, theme, t }: DiscoverSliderProps) 
       descKey: 'slide6_desc',
       screenComponent: (th) => (
         <img 
-          src={th === 'dark' ? '/assets/gorseller/App/Paywall-Dark.png' : '/assets/gorseller/App/Paywall-Light.png'} 
+          src={th === 'dark' ? './assets/gorseller/App/Paywall-Dark.png' : './assets/gorseller/App/Paywall-Light.png'} 
           alt="Premium Paywall" 
           className="w-full h-full object-cover object-top" 
         />
