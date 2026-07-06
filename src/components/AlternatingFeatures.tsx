@@ -313,36 +313,36 @@ export const ROADLOG_FEATURES: AlternateFeature[] = [
     id: 'drive',
     titleKey: 'feat1_title',
     descKey: 'feat1_desc',
-    imageLight: './assets/gorseller/presentation/Presentation-Light-1.png',
-    imageDark: './assets/gorseller/presentation/Presentation-Dark-1.png'
+    imageLight: '/assets/gorseller/presentation/Presentation-Light-1.png',
+    imageDark: '/assets/gorseller/presentation/Presentation-Dark-1.png'
   },
   {
     id: 'traffic',
     titleKey: 'feat2_title',
     descKey: 'feat2_desc',
-    imageLight: './assets/gorseller/presentation/Presentation-2.png',
-    imageDark: './assets/gorseller/presentation/Presentation-2.png'
+    imageLight: '/assets/gorseller/presentation/Presentation-2.png',
+    imageDark: '/assets/gorseller/presentation/Presentation-2.png'
   },
   {
     id: 'waters',
     titleKey: 'feat3_title',
     descKey: 'feat3_desc',
-    imageLight: './assets/gorseller/presentation/Presentation-3.png',
-    imageDark: './assets/gorseller/presentation/Presentation-3.png'
+    imageLight: '/assets/gorseller/presentation/Presentation-3.png',
+    imageDark: '/assets/gorseller/presentation/Presentation-3.png'
   },
   {
     id: 'step',
     titleKey: 'feat4_title',
     descKey: 'feat4_desc',
-    imageLight: './assets/gorseller/presentation/Presentation-Light-4.png',
-    imageDark: './assets/gorseller/presentation/Presentation-Dark-4.png'
+    imageLight: '/assets/gorseller/presentation/Presentation-Light-4.png',
+    imageDark: '/assets/gorseller/presentation/Presentation-Dark-4.png'
   },
   {
     id: 'forest',
     titleKey: 'feat5_title',
     descKey: 'feat5_desc',
-    imageLight: './assets/gorseller/presentation/Presentation-5.png',
-    imageDark: './assets/gorseller/presentation/Presentation-5.png'
+    imageLight: '/assets/gorseller/presentation/Presentation-5.png',
+    imageDark: '/assets/gorseller/presentation/Presentation-5.png'
   }
 ];
 
@@ -399,67 +399,67 @@ export const ROADLOG_TESTIMONIALS: RoadLogTestimonial[] = [
     textKey: 'test1_text',
     stars: 5,
     authorKey: 'test1_author',
-    avatar: "./assets/gorseller/profilepictures/p1.jpg"
+    avatar: "/assets/gorseller/profilepictures/p1.jpg"
   },
   {
     textKey: 'test2_text',
     stars: 5,
     authorKey: 'test2_author',
-    avatar: "./assets/gorseller/profilepictures/p2.jpg"
+    avatar: "/assets/gorseller/profilepictures/p2.jpg"
   },
   {
     textKey: 'test3_text',
     stars: 5,
     authorKey: 'test3_author',
-    avatar: "./assets/gorseller/profilepictures/p3.jpg"
+    avatar: "/assets/gorseller/profilepictures/p3.jpg"
   },
   {
     textKey: 'test4_text',
     stars: 5,
     authorKey: 'test4_author',
-    avatar: "./assets/gorseller/profilepictures/p4.jpg"
+    avatar: "/assets/gorseller/profilepictures/p4.jpg"
   },
   {
     textKey: 'test5_text',
     stars: 5,
     authorKey: 'test5_author',
-    avatar: "./assets/gorseller/profilepictures/p5.jpg"
+    avatar: "/assets/gorseller/profilepictures/p5.jpg"
   },
   {
     textKey: 'test6_text',
     stars: 5,
     authorKey: 'test6_author',
-    avatar: "./assets/gorseller/profilepictures/p6.jpg"
+    avatar: "/assets/gorseller/profilepictures/p6.jpg"
   },
   {
     textKey: 'test7_text',
     stars: 5,
     authorKey: 'test7_author',
-    avatar: "./assets/gorseller/profilepictures/p7.webp"
+    avatar: "/assets/gorseller/profilepictures/p7.webp"
   },
   {
     textKey: 'test8_text',
     stars: 5,
     authorKey: 'test8_author',
-    avatar: "./assets/gorseller/profilepictures/p8.jfif"
+    avatar: "/assets/gorseller/profilepictures/p8.jfif"
   },
   {
     textKey: 'test9_text',
     stars: 5,
     authorKey: 'test9_author',
-    avatar: "./assets/gorseller/profilepictures/p9.jpg"
+    avatar: "/assets/gorseller/profilepictures/p9.jpg"
   },
   {
     textKey: 'test10_text',
     stars: 5,
     authorKey: 'test10_author',
-    avatar: "./assets/gorseller/profilepictures/p10.jpg"
+    avatar: "/assets/gorseller/profilepictures/p10.jpg"
   },
   {
     textKey: 'test11_text',
     stars: 5,
     authorKey: 'test11_author',
-    avatar: "./assets/gorseller/profilepictures/p11.jpg"
+    avatar: "/assets/gorseller/profilepictures/p11.jpg"
   }
 ];
 

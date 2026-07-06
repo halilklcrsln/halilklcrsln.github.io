@@ -170,7 +170,7 @@ export default function CelestialHeader({ theme, setTheme, lang, setLang, t, isS
             {/* Elegant Golden Astro-Acoustic Headphone Logo - Custom Image Enlarged */}
             <a href="#" className="focus:outline-none block hover:scale-[1.03] transition-all duration-300">
               <img 
-                src="./assets/Modonaretransparenlogo.png" 
+                src="/assets/Modonaretransparenlogo.png" 
                 alt="Modonare Logo" 
                 className="h-[120px] md:h-[155px] w-auto object-contain filter drop-shadow-[0_0_12px_rgba(230,195,100,0.3)]" 
               />

@@ -440,7 +440,7 @@ export default function App() {
                   {/* Custom Asset Image with Fallback */}
                   {!heroImg1Error ? (
                     <img 
-                      src={theme === 'dark' ? './assets/gorseller/App/Onboarding-Dark-1.png' : './assets/gorseller/App/Onboarding-Light-1.png'} 
+                      src={theme === 'dark' ? '/assets/gorseller/App/Onboarding-Dark-1.png' : '/assets/gorseller/App/Onboarding-Light-1.png'} 
                       alt="Soundscape Flow" 
                       className="absolute inset-0 w-full h-full object-cover z-20 pointer-events-none"
                       onError={() => setHeroImg1Error(true)}
@@ -486,7 +486,7 @@ export default function App() {
                   {/* Custom Asset Image with Fallback */}
                   {!heroImg2Error ? (
                     <img 
-                      src={theme === 'dark' ? './assets/gorseller/App/Onboarding-Dark-2.png' : './assets/gorseller/App/Onboarding-Light-2.png'} 
+                      src={theme === 'dark' ? '/assets/gorseller/App/Onboarding-Dark-2.png' : '/assets/gorseller/App/Onboarding-Light-2.png'} 
                       alt="Astrological Natal Chart" 
                       className="absolute inset-0 w-full h-full object-cover z-20 pointer-events-none"
                       onError={() => setHeroImg2Error(true)}
@@ -535,7 +535,7 @@ export default function App() {
                   {/* Custom Asset Image with Fallback */}
                   {!heroImg3Error ? (
                     <img 
-                      src={theme === 'dark' ? './assets/gorseller/App/Onboarding-Dark-3.png' : './assets/gorseller/App/Onboarding-Light-3.png'} 
+                      src={theme === 'dark' ? '/assets/gorseller/App/Onboarding-Dark-3.png' : '/assets/gorseller/App/Onboarding-Light-3.png'} 
                       alt="Astral Meditation Track List" 
                       className="absolute inset-0 w-full h-full object-cover z-20 pointer-events-none"
                       onError={() => setHeroImg3Error(true)}
@@ -593,7 +593,7 @@ export default function App() {
                 
                 {/* Pixel-perfect background screenshot matching MyMusics screen (Aligned to the top) */}
                 <img 
-                  src={theme === 'dark' ? './assets/gorseller/App/MyMusics-Dark.png' : './assets/gorseller/App/MyMusics-Light.png'} 
+                  src={theme === 'dark' ? '/assets/gorseller/App/MyMusics-Dark.png' : '/assets/gorseller/App/MyMusics-Light.png'} 
                   alt="My Musics Screen Mockup" 
                   className="absolute inset-0 w-full h-full object-cover object-top z-0 pointer-events-none"
                 />
@@ -618,7 +618,7 @@ export default function App() {
                 </h1>
                 <div className="shrink-0 flex items-center justify-center ml-4 md:ml-10">
                   <img 
-                    src={theme === 'dark' ? './assets/gorseller/App/appicon-dark.png' : './assets/gorseller/App/appicon-light.png'} 
+                    src={theme === 'dark' ? '/assets/gorseller/App/appicon-dark.png' : '/assets/gorseller/App/appicon-light.png'} 
                     alt="MODONARE App Icon" 
                     className="w-[72px] h-[72px] md:w-[96px] md:h-[96px] rounded-2xl md:rounded-[22px] shadow-2xl border border-celestial-gold/25 object-cover filter drop-shadow-[0_4px_12px_rgba(0,0,0,0.15)] transition-all duration-300 hover:scale-105"
                   />
@@ -644,7 +644,7 @@ export default function App() {
                   className="transition-transform duration-300 hover:scale-105 active:scale-95 block shrink-0"
                 >
                   <img 
-                    src="./assets/gorseller/Download_on_the_App_Store_Badge.svg" 
+                    src="/assets/gorseller/Download_on_the_App_Store_Badge.svg" 
                     alt="Download on the App Store" 
                     className="h-[60px] w-auto object-contain filter drop-shadow-[0_4px_12px_rgba(0,0,0,0.15)]"
                   />
@@ -658,7 +658,7 @@ export default function App() {
                   className="transition-transform duration-300 hover:scale-105 active:scale-95 block shrink-0"
                 >
                   <img 
-                    src="./assets/gorseller/Download_on_the_Play-Store_Badge.svg" 
+                    src="/assets/gorseller/Download_on_the_Play-Store_Badge.svg" 
                     alt="Get it on Google Play" 
                     className="h-[60px] w-auto object-contain filter drop-shadow-[0_4px_12px_rgba(0,0,0,0.15)]"
                   />
@@ -745,7 +745,7 @@ export default function App() {
               
               <a href="#" className="hover:scale-[1.03] transition-all duration-300 block">
                 <img 
-                  src="./assets/Modonaretransparenlogo.png" 
+                  src="/assets/Modonaretransparenlogo.png" 
                   alt="Modonare Logo" 
                   className="h-[46px] w-auto object-contain filter drop-shadow-[0_0_12px_rgba(230,195,100,0.25)]" 
                 />
@@ -775,7 +775,7 @@ export default function App() {
             
             <a href="#" className="hover:scale-[1.03] transition-all duration-300 block">
               <img 
-                src="./assets/Modonaretransparenlogo.png" 
+                src="/assets/Modonaretransparenlogo.png" 
                 alt="Modonare Logo" 
                 className="h-[46px] w-auto object-contain filter drop-shadow-[0_0_12px_rgba(230,195,100,0.25)]" 
               />
