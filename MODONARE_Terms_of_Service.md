@@ -19,7 +19,7 @@ These Terms apply to all versions of MODONARE, including iOS and Android platfor
 
 ### 1.1 Age Requirement
 
-You must be at least **17 years of age** to use MODONARE. By using the Application, you represent and warrant that you are 17 years of age or older. If you are under 17 years of age, you are not permitted to use the Application.
+You must be at least **13 years of age** to use MODONARE without parental supervision. MODONARE is available to all ages. Users under 13 should have parental consent. If you are under 13 years of age, you must have parental consent to use the Application.
 
 ### 1.2 Legal Capacity
 
@@ -137,8 +137,8 @@ MODONARE offers premium subscription plans that unlock full access to the Applic
 | Plan | Price | Billing Period |
 |------|-------|---------------|
 | Weekly | $1.99 | Every 7 days |
-| Monthly | $7.99 | Every 30 days |
-| Annual | $89.99 | Every 365 days |
+| Monthly | $6.99 | Every 30 days |
+| Annual | $69.99 | Every 365 days |
 
 Prices are in USD and may vary by region based on local App Store / Google Play pricing tiers.
 

@@ -163,9 +163,9 @@ MODONARE does not integrate third-party analytics platforms (such as Firebase An
 
 ## 6. Children's Privacy
 
-MODONARE is not directed to children under the age of 17. We do not knowingly collect personal information from children under 17. The application requires birth date input; users born less than 17 years ago will not be able to complete registration.
+MODONARE is designed for general audiences. The app does not knowingly collect personal information from children under the age of 13 without parental consent, in accordance with COPPA (Children's Online Protection Act). Users under 13 should use the app only with parental supervision.
 
-If you are a parent or guardian and believe your child under 17 has provided personal information through MODONARE, please contact us at the email address listed at the end of this policy. We will take steps to ensure such information is removed.
+If you are a parent or guardian and believe your child under 13 has provided personal information through MODONARE, please contact us at the email address listed at the end of this policy. We will take steps to ensure such information is removed.
 
 ---
 
