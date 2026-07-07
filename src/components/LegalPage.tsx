@@ -315,12 +315,12 @@ export default function LegalPage({ type, lang = 'en' }: LegalPageProps) {
                 </tr>
                 <tr className="border-b border-celestial-gold/10">
                   <td className="px-4 py-2">{termsT.monthlyPlan}</td>
-                  <td className="px-4 py-2">$7.99</td>
+                  <td className="px-4 py-2">$6.99</td>
                   <td className="px-4 py-2">{termsT.monthlyDesc}</td>
                 </tr>
                 <tr className="border-b border-celestial-gold/10">
                   <td className="px-4 py-2">{termsT.annualPlan}</td>
-                  <td className="px-4 py-2">$89.99</td>
+                  <td className="px-4 py-2">$69.99</td>
                   <td className="px-4 py-2">{termsT.annualDesc}</td>
                 </tr>
                 <tr className="text-[#ffd175]/80 font-sans">
